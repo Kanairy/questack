@@ -1,0 +1,16 @@
+{
+  "name": "quesTack_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/questack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "slackbot-api": "^1.12.3"
+  }
+}
