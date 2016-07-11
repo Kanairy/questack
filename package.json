@@ -12,6 +12,7 @@
   "dependencies": {
     "bristol": "^0.3.3",
     "immutable": "^3.8.1",
+    "moment": "^2.14.1",
     "slackbot-api": "^1.12.3"
   }
 }
