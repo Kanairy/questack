@@ -2,7 +2,7 @@
   "name": "questack",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/questack.js",
+  "main": "lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "botkit": "^0.2.2",
-    "bristol": "^0.3.3",
     "immutable": "^3.8.1",
     "moment": "^2.14.1",
-    "node-fetch": "^1.5.3"
+    "node-fetch": "^1.5.3",
+    "node-wit": "^4.1.0"
   }
 }
