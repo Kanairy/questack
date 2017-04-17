@@ -1,3 +1,3 @@
-# quesTack_BOT
+# questack 
 
-TODO: Complete
+Questack is a slack bot for managing student queries in class. 
